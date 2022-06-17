@@ -1,0 +1,168 @@
+{
+  "national_ownership": {
+    "one": 588,
+    "two": 1176
+  },
+  "public_transportation": 242,
+  "north_east": {
+    "one" : 315,
+    "two" : 630,
+    "states" : [
+    "Maine", 
+    "New Hampshire", 
+    "Vermont", 
+    "Massachusetts", 
+    "Rhode Island", 
+    "Connecticut", 
+    "Delaware", 
+    "Maryland", 
+    "New Jersey", 
+    "New York", 
+    "Pennsylvania", 
+    "District of Columbia"
+  ]},
+  "mid_west":{
+    "one" : 240,
+    "two" : 480,
+    "states" : [
+    "Illinois", 
+    "Indiana", 
+    "Iowa", 
+    "Kansas", 
+    "Michigan", 
+    "Minnesota", 
+    "Missouri", 
+    "Nebraska", 
+    "North Dakota", 
+    "Ohio", 
+    "South Dakota", 
+    "Wisconsin"
+  ]},
+  "south": {
+    "one" : 267,
+    "two" : 534,
+    "states" : [
+    "Alabama", 
+    "Arkansas", 
+    "Florida", 
+    "Georgia", 
+    "Kentucky", 
+    "Louisiana", 
+    "Mississippi", 
+    "North Carolina", 
+    "Oklahoma", 
+    "South Carolina", 
+    "Tennessee", 
+    "Texas", 
+    "Virginia", 
+    "West Virginia"
+  ]},
+  "west": {
+    "one":285,
+    "two": 570,
+    "states": [
+    "Arizona", 
+    "California", 
+    "Colorado", 
+    "Idaho", 
+    "Montana", 
+    "Nevada", 
+    "New Mexico", 
+    "Oregon", 
+    "Utah", 
+    "Washington", 
+    "Wyoming"
+  ]},
+  "boston": {
+    "one": 304,
+    "two": 608
+  },
+  "new_york": {
+    "one": 406,
+    "two": 812
+  },
+  "philadelphia": {
+    "one": 321,
+    "two": 642
+  },
+  "chicago": {
+    "one": 267,
+    "two": 534
+  },
+  "cleveland": {
+    "one": 240,
+    "two": 480
+  },
+  "detroit": {
+    "one": 349,
+    "two": 698
+  },
+  "minneapolis-st_paul": {
+    "one": 237,
+    "two": 474
+  },
+  "st_louis": {
+    "one": 263,
+    "two": 526
+  },
+  "atlanta": {
+    "one": 320,
+    "two": 640
+  },
+  "baltimore": {
+    "one": 307,
+    "two": 614
+  },
+  "dallas-ft_worth": {
+    "one": 320,
+    "two": 640
+  },
+  "houston": {
+    "one": 345,
+    "two": 690
+  },
+  "miami": {
+    "one": 404,
+    "two": 808
+  },
+  "tampa": {
+    "one": 316,
+    "two": 632
+  },
+  "washington_dc": {
+    "one": 319,
+    "two": 638
+  },
+  "anchorage": {
+    "one": 231,
+    "two": 462
+  },
+  "denver": {
+    "one": 294,
+    "two": 588
+  },
+  "honolulu": {
+    "one": 270,
+    "two": 540
+  },
+  "los_angeles": {
+    "one": 375,
+    "two": 750
+  },
+  "phoenix": {
+    "one": 301,
+    "two": 602
+  },
+  "san_diego": {
+    "one": 340,
+    "two": 680
+  },
+  "san_fransisco": {
+    "one": 319,
+    "two": 638
+  },
+  "seattle": {
+    "one": 284,
+    "two": 568
+  }
+}
