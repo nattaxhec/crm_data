@@ -1,0 +1,33 @@
+{
+  "food": {
+    "one": 431,
+    "two": 779,
+    "three": 903,
+    "four": 1028
+  },
+  "housekeeping_supplies": {
+    "one": 40,
+    "two": 82,
+    "three": 74,
+    "four": 85
+  },
+  "apparel_&_services": {
+    "one": 99,
+    "two": 161,
+    "three": 206,
+    "four": 279
+  },
+  "personal_care_products_&_services": {
+    "one": 45,
+    "two": 82,
+    "three": 78,
+    "four": 96
+  },
+  "miscellaneous": {
+    "one": 170,
+    "two": 306,
+    "three": 349,
+    "four": 412
+  },
+  "additional": 344
+}
